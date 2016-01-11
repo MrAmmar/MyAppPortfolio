@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="my_nano">My Nanodegree Apps!</string>
+    <string name="spotify">SPOTIFY STREAMER</string>
+    <string name="scores">SCORES APP</string>
+    <string name="library">LIBRARY APP</string>
+    <string name="build">BUILD IT BIGGER</string>
+    <string name="xyz">XYZ READER</string>
+    <string name="capstone">CAPSTONE: MY OWN APP</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Toast messages -->
+    <string name="apps_toastmsg">This button will launch %1$s app!</string>
+</resources>
